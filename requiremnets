@@ -1,0 +1,70 @@
+home page requirements:
+bold Welcome to rozgar.com, we believe in quality.
+sign up:
+first name, last name.
+email
+password
+already a member? login
+
+signin page:
+email:
+password: 
+login button:
+
+home page:
+search box: search job titles or company search jobs (button) and then when someone click on search job button a page should come bhai nokri na karo entrepreneur bano
+Looking for a job of your wish? build your resume button
+Looking for a employe of your requirement? post a job button
+
+postjob page.
+Hire the best from rozgar.pk
+full name:
+company name:
+city:
+cnic number
+date of issue
+JOb title:
+job description: (text area)
+skills required for this job (text area)
+career level: (select option) Intern Junior Senior Fresh:
+minimum qualification:
+select box:
+non-matriculate matriculation/ intermediate / diploma / graduate 
+Experience:
+min: (select box) max: (select box)
+Salary based on skills:
+From: (select option) 10k 20 30k 40 50k 60k 70k 80k 90k 100k 150k 200k 250k To: ( select option) 15k 25k 35k 45k 55k 65k 75k 85k 95k 105k 115 125k 150k 175k 200k 250k 300k 350k 400k 500k 1M
+Post a Job button: (redirecting page: Job has been posted successfully)o
+Go back to (link)home page
+
+Job seeker page:
+
+Get the job of your dream from rozgar.pk
+
+Build your resume
+
+fullname
+father name
+cnic
+date of birth
+gender
+city
+state
+street address
+profession
+skills
+have you done a job before: NO yes done a job before
+Experience:
+Qualification
+your previous job salary: i haven't
+expected salary:
+Desired career level:
+Intern
+Fresh
+junior 
+senior
+<abbr title="write the job title you are applying for">Applying for</abbr>
+
+
+
+
