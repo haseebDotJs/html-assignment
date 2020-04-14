@@ -23,7 +23,7 @@ company name:
 city:
 cnic number
 date of issue
-JOb title:
+Job title:
 job description: (text area)
 skills required for this job (text area)
 career level: (select option) Intern Junior Senior Fresh:
@@ -41,7 +41,7 @@ Job seeker page:
 
 Get the job of your dream from rozgar.pk
 
-Build your resume
+Build your resume section:
 
 fullname
 father name
@@ -59,11 +59,11 @@ Qualification
 your previous job salary: i haven't
 expected salary:
 Desired career level:
-Intern
-Fresh
-junior 
-senior
-<abbr title="write the job title you are applying for">Applying for</abbr>
+-Intern
+-Fresh
+-junior 
+-senior
+
 
 
 
