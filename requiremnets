@@ -1,7 +1,8 @@
 home page requirements:
 bold Welcome to rozgar.com, we believe in quality.
 sign up:
-first name, last name.
+first name
+last name
 email
 password
 already a member? login
@@ -12,7 +13,7 @@ password:
 login button:
 
 home page:
-search box: search job titles or company search jobs (button) and then when someone click on search job button a page should come bhai nokri na karo entrepreneur bano
+search box: search job titles or company search jobs (button) and then when someone click on search job button a page should come bhai nokri na karo entrepreneur bano sir adil ki tarah
 Looking for a job of your wish? build your resume button
 Looking for a employe of your requirement? post a job button
 
@@ -34,7 +35,7 @@ Experience:
 min: (select box) max: (select box)
 Salary based on skills:
 From: (select option) 10k 20 30k 40 50k 60k 70k 80k 90k 100k 150k 200k 250k To: ( select option) 15k 25k 35k 45k 55k 65k 75k 85k 95k 105k 115 125k 150k 175k 200k 250k 300k 350k 400k 500k 1M
-Post a Job button: (redirecting page: Job has been posted successfully)o
+Post a Job button: (redirecting page: Job has been posted successfully)
 Go back to (link)home page
 
 Job seeker page:
@@ -63,6 +64,7 @@ Desired career level:
 -Fresh
 -junior 
 -senior
+Build your resume button (redirect to page , congratulations your resume has been build seccessfully)
 
 
 
